@@ -1,3 +1,3 @@
 # gameboy
 
-> A Gameboy emulator written in assembly
+> A Gameboy emulator written in golang
